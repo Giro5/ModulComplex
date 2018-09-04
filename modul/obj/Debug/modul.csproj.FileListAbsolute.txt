@@ -1,0 +1,7 @@
+C:\Users\nikit\source\repos\modul\modul\bin\Debug\modul.exe.config
+C:\Users\nikit\source\repos\modul\modul\bin\Debug\modul.exe
+C:\Users\nikit\source\repos\modul\modul\bin\Debug\modul.pdb
+C:\Users\nikit\source\repos\modul\modul\obj\Debug\modul.csprojAssemblyReference.cache
+C:\Users\nikit\source\repos\modul\modul\obj\Debug\modul.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\modul\modul\obj\Debug\modul.exe
+C:\Users\nikit\source\repos\modul\modul\obj\Debug\modul.pdb
